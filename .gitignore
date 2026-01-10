@@ -1,0 +1,15 @@
+# 1. Ignore the Virtual Environment (It's 100mb+ and machine specific)
+venv/
+
+# 2. Ignore compiled Python files (Junk data)
+__pycache__/
+
+# 3. CRITICAL: Ignore Environment Variables (Your Passwords)
+.env
+
+# 4. Ignore local logs and downloads (We don't want to upload client PDFs)
+logs/
+downloads/
+
+# 5. OS junk files
+.DS_Store
