@@ -108,14 +108,4 @@ python src/fetch_invoices.py
 
 ```
 
----
-
-## 🏢 About Clear Sequence AI
-
-Clear Sequence AI specializes in **Sovereign Automation Infrastructure** for the Supply Chain industry. We build tools that turn manual workflows into autonomous systems, prioritizing data privacy and reliability.
-
-**Website:** https://clearsequence.ai
-
 **Maintainer:** Sam Sanchez
-
-```
